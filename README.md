@@ -178,6 +178,4 @@ To swap SQLite for **Supabase**, **Neon**, or **PostgreSQL**, simply replace the
 
 ---
 
-## 📄 License
-
-MIT License — Built for bike riders and local motorcycle workshops.
+# team
